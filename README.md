@@ -74,7 +74,3 @@ Results: Pass
 ## ✨ Author
 - **Semira** – Grade 11 Student  
 - Project demonstrates Java OOP + GUI basics
-
-
-## 📄 Example Output
-
